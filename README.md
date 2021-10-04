@@ -93,7 +93,7 @@ Exemplo de vinculo #informacao
 
 **Distribuição**
 
-*licença Mozilla v1.1*
+*licença Mozilla v2.*
 
-Este aplicativo é elaborado e distribuido por VALMOR PEREIRA FLORES e sua distribuição está sob licença Mozilla v1.1.
+Este aplicativo é elaborado e distribuido sob licença Mozilla v1.1.
 
