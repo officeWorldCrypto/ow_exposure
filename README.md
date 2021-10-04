@@ -70,7 +70,7 @@ Usuarios podem se cadastrar de muitas formas e os mesmos tem um status active (t
 .cocacola.brasil.financeiro
 .cocacola.brasil.fornecedores
 @valmorflores power: .ws.proprietario, .ws.admin, .ws.suporte, .cosems.admin
-@lisiwfagundes power: .ws.cliente, .rs.saude.daha.admin, .rs.saude, .cosems.admin
+@lisiwfagundes power: .ws.cliente, .rs.saude.daha.admin, .rs.saude, 
 @3r power: .ws.fornecedores
 @gustavoflores power: ws.faturamento, ws.admin,
 
