@@ -1,4 +1,6 @@
-## Presentation
+## [officeWorld] exposure
+
+### Presentation
 
 This software is used for distributing articles and files to website or software with officeWorld integration. Logically, all data has been linked to a workspace, and the system manager can make changes in just one software and reflect all information in others.
 
